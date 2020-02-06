@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeekendBahagia</string>
+
+    <!-- Nav Bottom -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_jalan_jalan">Jalan-jalan</string>
+    <string name="nav_info_wisata">Info Wisata</string>
+
+    <!-- Essay -->
+    <string name="hint_name">Nama</string>
+</resources>
